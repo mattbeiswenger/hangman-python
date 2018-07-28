@@ -6,5 +6,5 @@ To install the required dependencies, either use ```pip install -r requirements.
 If you would like to fiddle with some of the code, you can uncomment the section designated to accept words from a file. Then, include your own words in the accompanying Words.txt file.
 
 <p align="center">
-  <img src"https://i.imgur.com/eseOBU1.png" alt="Screenshot of program"></img>
+  <img src="https://i.imgur.com/eseOBU1.png" alt="Screenshot of program"></img>
 </p>
